@@ -24,7 +24,7 @@ The hosted version I use day to day runs on claude.ai, where progress syncs acro
 
 ## Run it
 
-Download `index.html` and open it in any browser. This repo is private because the app includes course materials.
+Open the live app at https://Darrie-Andrei-Dizon.github.io/daily-fit/ or download index.html and open it in any browser.
 
 ## Credits
 
